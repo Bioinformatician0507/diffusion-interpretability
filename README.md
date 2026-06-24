@@ -40,7 +40,7 @@ central cellular structure, suppressing background filament texture.
 ## Why this matters for AI safety
 
 If a model decides what to attend to this early in denoising, then 
-Interventions at high timesteps could steer generation before structure 
+interventions at high timesteps could steer generation before structure 
 locks in — directly relevant to controllability and interpretability 
 of generative systems. This connects to Anthropic's mechanistic 
 interpretability research agenda.
