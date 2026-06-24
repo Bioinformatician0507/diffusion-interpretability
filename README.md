@@ -61,7 +61,7 @@ interpretability research agenda.
 ## Run it yourself
 
 Open in Colab:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bioinformatician0507/diffusion-interpretability/blob/main/diffusion_interpretability.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bioinformatician0507/diffusion-interpretability/blob/main/Diffusion_interpretability(2).ipynb)
 
 ## Limitations
 
