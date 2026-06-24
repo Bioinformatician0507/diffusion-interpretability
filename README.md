@@ -61,11 +61,11 @@ interpretability research agenda.
 ## Run it yourself
 
 Open in Colab:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bioinformatician0507/diffusion-interpretability/blob/main/Diffusion_interpretability(2).ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bioinformatician0507/diffusion-interpretability/blob/main/diffusion_interpretability.ipynb)
 
 ## Limitations
 
-- L2 norm of attention output is a proxy for attention weight — 
-  future work should extract raw attention weight matrices directly
+- L2 norm of attention output is a proxy for attention weight
+-  Future work should extract raw attention weight matrices directly
 - Results shown on SD1.5; may differ on SDXL or newer architectures
 - Spatial resolution limited by UNet downsampling
